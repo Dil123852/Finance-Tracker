@@ -80,12 +80,5 @@ Contributions are welcome!
 4. Open a pull request
 
 
-## 📜 License
-Add your preferred license (e.g., MIT) as `LICENSE`.
-
-## 👤 Author
-Your Name  
-GitHub: @your-username  
-LinkedIn/Website: optional
 
 
